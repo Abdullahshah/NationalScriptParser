@@ -1,0 +1,37 @@
+[INFO  - 2017-12-13T19:56:14.181Z] GhostDriver - Main - running on port 50735
+[INFO  - 2017-12-13T19:56:16.634Z] Session [ae134770-e03f-11e7-9655-0f689547baaf] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-12-13T19:56:16.634Z] Session [ae134770-e03f-11e7-9655-0f689547baaf] - page.customHeaders:  - {}
+[INFO  - 2017-12-13T19:56:16.634Z] Session [ae134770-e03f-11e7-9655-0f689547baaf] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-12-13T19:56:16.635Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ae134770-e03f-11e7-9655-0f689547baaf
+[ERROR - 2017-12-13T19:56:33.777Z] Session [ae134770-e03f-11e7-9655-0f689547baaf] - page.onError - msg: Unhandled promise rejection Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-13T19:56:33.781Z] Session [ae134770-e03f-11e7-9655-0f689547baaf] - page.onError - stack:
+  (anonymous function) (https://www.healthgrades.com/public3/bundles/usearch.bundle.ee8ebfecadb1cbc1cfd3.js:58)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-13T19:56:33.783Z] Session [ae134770-e03f-11e7-9655-0f689547baaf] - page.onError - msg: Unhandled promise rejection Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-13T19:56:33.783Z] Session [ae134770-e03f-11e7-9655-0f689547baaf] - page.onError - stack:
+  (anonymous function) (https://www.healthgrades.com/public3/bundles/usearch.bundle.ee8ebfecadb1cbc1cfd3.js:58)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-13T19:56:33.785Z] Session [ae134770-e03f-11e7-9655-0f689547baaf] - page.onError - msg: Unhandled promise rejection Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-13T19:56:33.785Z] Session [ae134770-e03f-11e7-9655-0f689547baaf] - page.onError - stack:
+  (anonymous function) (https://www.healthgrades.com/public3/bundles/usearch.bundle.ee8ebfecadb1cbc1cfd3.js:58)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-13T19:56:33.787Z] Session [ae134770-e03f-11e7-9655-0f689547baaf] - page.onError - msg: Unhandled promise rejection Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-13T19:56:33.787Z] Session [ae134770-e03f-11e7-9655-0f689547baaf] - page.onError - stack:
+  (anonymous function) (https://www.healthgrades.com/public3/bundles/usearch.bundle.ee8ebfecadb1cbc1cfd3.js:58)
+
+  phantomjs://platform/console++.js:263 in error
